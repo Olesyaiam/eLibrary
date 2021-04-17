@@ -1,0 +1,10 @@
+syntax: glob
+
+bin/
+obj/
+packages/
+riderModule.iml
+_ReSharper.Caches/
+.idea
+.vs/
+eLibraryZhigalova.sln.DotSettings.user
